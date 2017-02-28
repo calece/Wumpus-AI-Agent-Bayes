@@ -1,0 +1,12 @@
+C:\Users\Cale\Documents\Visual Studio 2012\Projects\BayesPractice\BayesPractice\bin\Debug\BayesPractice.exe.config
+C:\Users\Cale\Documents\Visual Studio 2012\Projects\BayesPractice\BayesPractice\obj\Debug\BayesPractice.exe
+C:\Users\Cale\Documents\Visual Studio 2012\Projects\BayesPractice\BayesPractice\obj\Debug\BayesPractice.pdb
+C:\Users\Cale\Documents\Visual Studio 2012\Projects\BayesPractice\BayesPractice\bin\Debug\BayesPractice.exe
+C:\Users\Cale\Documents\Visual Studio 2012\Projects\BayesPractice\BayesPractice\bin\Debug\BayesPractice.pdb
+C:\Users\Cale\Documents\Visual Studio 2012\Projects\BayesPractice\BayesPractice\obj\Debug\WumpusBayesAgent.csprojResolveAssemblyReference.cache
+C:\Users\Cale\Desktop\CS440\BayesPractice\BayesPractice\bin\Debug\BayesPractice.exe.config
+C:\Users\Cale\Desktop\CS440\BayesPractice\BayesPractice\obj\Debug\BayesPractice.exe
+C:\Users\Cale\Desktop\CS440\BayesPractice\BayesPractice\obj\Debug\BayesPractice.pdb
+C:\Users\Cale\Desktop\CS440\BayesPractice\BayesPractice\bin\Debug\BayesPractice.exe
+C:\Users\Cale\Desktop\CS440\BayesPractice\BayesPractice\bin\Debug\BayesPractice.pdb
+C:\Users\Cale\Desktop\CS440\BayesPractice\BayesPractice\obj\Debug\WumpusBayesAgent.csprojResolveAssemblyReference.cache

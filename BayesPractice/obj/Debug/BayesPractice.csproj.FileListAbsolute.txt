@@ -1,0 +1,6 @@
+c:\users\cale\documents\visual studio 2012\Projects\BayesPractice\BayesPractice\bin\Debug\BayesPractice.exe.config
+c:\users\cale\documents\visual studio 2012\Projects\BayesPractice\BayesPractice\bin\Debug\BayesPractice.exe
+c:\users\cale\documents\visual studio 2012\Projects\BayesPractice\BayesPractice\bin\Debug\BayesPractice.pdb
+c:\users\cale\documents\visual studio 2012\Projects\BayesPractice\BayesPractice\obj\Debug\BayesPractice.csprojResolveAssemblyReference.cache
+c:\users\cale\documents\visual studio 2012\Projects\BayesPractice\BayesPractice\obj\Debug\BayesPractice.exe
+c:\users\cale\documents\visual studio 2012\Projects\BayesPractice\BayesPractice\obj\Debug\BayesPractice.pdb
